@@ -1,4 +1,4 @@
-# Templater
+# EasyPlate
 ```java
 String s = "Hello, $[[name]]"
 Map model = new HashMap<>();
